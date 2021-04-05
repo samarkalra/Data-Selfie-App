@@ -1,0 +1,23 @@
+p {
+    padding: 10px;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 12px 24px;
+    margin-right: 12px;
+    color: black;
+    transition: all 400ms;
+}
+a:hover {
+    background-color: lightseagreen;
+    color: white;
+}
+form {
+    margin-bottom: 12px;
+}
+.image-data {
+    background-color: lightgreen;
+}
